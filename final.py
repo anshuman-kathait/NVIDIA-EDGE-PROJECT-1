@@ -27,7 +27,7 @@ UNSPLASH_ACCESS_KEY = "bUrrCOHEfTukc_WzUSi5GZB9HdtgPrEAK9hArzt25Rg"
 
 # Email credentials
 EMAIL = "kathait2309@gmail.com"
-PASSWORD = "oqht igot qdvo ffdh"
+PASSWORD = "  Insert yours here"  //Insert your app password here before proceeding
 
 @app.route("/", methods=["GET"])
 def index():
